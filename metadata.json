@@ -1,0 +1,6 @@
+{
+  "name": "SAS-Platform",
+  "description": "پلاتفۆرمی ساس بۆ دروستکردنی ئەپلیکەیشن، ماڵپەڕ، و یاری ٣ ڕەهەندی بەبێ کۆدکردن بە هاوکاری ژیری دەستکرد و سیستەمی بێ وێنەی بەشداری کردن",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

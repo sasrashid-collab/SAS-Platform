@@ -1,0 +1,64 @@
+{
+  "manifestName": "SAS-Platform Project Backup Manifest",
+  "generatedAt": "2026-07-08T14:41:04.382Z",
+  "userEmail": "sas.rashid@gmail.com",
+  "projectKeys": {
+    "sas_active_plan": {
+      "raw": "ewogICJwbGFuSWQiOiAib3duZXJfdW5saW1pdGVkIiwKICAibmFtZSI6ICLZh9uV2pjZhdin2LHbjCDZh9uV2YXbjNi025XbjNuMINiu2KfZiNuV2YYgKNio247YqNuV2LHYp9mF2KjbldixINmIINio247aqduG2KrYpykg8J+RkSIsCiAgInJlbWFpbmluZ0dhbWVzIjogOTk5OTk5LAogICJyZW1haW5pbmdXZWJzaXRlcyI6IDk5OTk5OSwKICAicmVtYWluaW5nQXBwcyI6IDk5OTk5OSwKICAidG9rZW5Db3VudCI6IDk5OTk5OTk5OSwKICAiaXNUcmlhbCI6IGZhbHNlLAogICJ0cmlhbFN0YXJ0IjogIiIsCiAgInRyaWFsRW5kIjogIiIsCiAgImV4cGlyYXRpb25EYXRlIjogItmH25XZhduM2LTblduM24wg2KjbhiDZh9uV2YXbjNi025UiCn0=",
+      "decoded": {
+        "planId": "owner_unlimited",
+        "name": "هەژماری هەمیشەیی خاوەن (بێبەرامبەر و بێکۆتا) 👑",
+        "remainingGames": 999999,
+        "remainingWebsites": 999999,
+        "remainingApps": 999999,
+        "tokenCount": 999999999,
+        "isTrial": false,
+        "trialStart": "",
+        "trialEnd": "",
+        "expirationDate": "هەمیشەیی بۆ هەمیشە"
+      }
+    },
+    "sas_secure_github_repo": {
+      "raw": "sasrashid-collab/SAS-Platform",
+      "decoded": "sasrashid-collab/SAS-Platform"
+    },
+    "sas_invoices": {
+      "raw": "WwogIHsKICAgICJpZCI6ICJTQVMtSU5WLTAwMSIsCiAgICAicGxhbklkIjogInBsYW5fYSIsCiAgICAicGxhbk5hbWUiOiAi2Kjbldi02K/Yp9ix24zaqdix2K/ZhtuMINm+2KfaqduO2KzbjCDYptin2LPYp9uM24wgKFBsYW4gQSkiLAogICAgImFtb3VudCI6IDMwMDAwLAogICAgInBheW1lbnRNZXRob2QiOiAiRklCIiwKICAgICJzdGF0dXMiOiAicGVuZGluZyIsCiAgICAiaW52b2ljZURhdGUiOiAiNy81LzIwMjYiLAogICAgInRyYW5zYWN0aW9uSWQiOiAiVFhOLTc3NzEyMyIsCiAgICAidXNlckVtYWlsIjogInNhcy5yYXNoaWRAZ21haWwuY29tIiwKICAgICJ3aGF0c2FwcFNlbnQiOiB0cnVlLAogICAgInJlY2VpcHRTY3JlZW5zaG90IjogIi9zY3JlZW5zaG90cy9yZWNlaXB0X3NpbXVsYXRlX2ZpYi5wbmciCiAgfQpd",
+      "decoded": [
+        {
+          "id": "SAS-INV-001",
+          "planId": "plan_a",
+          "planName": "بەشداریکردنی پاکێجی ئاسایی (Plan A)",
+          "amount": 30000,
+          "paymentMethod": "FIB",
+          "status": "pending",
+          "invoiceDate": "7/5/2026",
+          "transactionId": "TXN-777123",
+          "userEmail": "sas.rashid@gmail.com",
+          "whatsappSent": true,
+          "receiptScreenshot": "/screenshots/receipt_simulate_fib.png"
+        }
+      ]
+    },
+    "sas_agreed": {
+      "raw": "true",
+      "decoded": true
+    },
+    "sas_secure_github_autosync": {
+      "raw": "false",
+      "decoded": "false"
+    },
+    "sas_ads": {
+      "raw": "W10=",
+      "decoded": []
+    },
+    "sas_last_pushed_url": {
+      "raw": "https://github.com/sasrashid-collab/SAS-Platform",
+      "decoded": "https://github.com/sasrashid-collab/SAS-Platform"
+    },
+    "sas_products": {
+      "raw": "W10=",
+      "decoded": []
+    }
+  }
+}
